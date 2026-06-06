@@ -111,8 +111,8 @@ To make this app completely un-killable and disable the Home/Recents buttons, yo
 2. Ensure **USB Debugging** is enabled in the phone's Developer Options.
 3. Open a Terminal / Command Prompt on your computer and execute the following `ADB` command:
 
-```bash
 adb shell dpm set-device-owner com.yourusername.bedtimeguardian/.BedtimeDeviceAdminReceiver
+
 
 
 ## 🚨 Emergency Jailbreak Protocol (If You Get Stuck!)
@@ -129,5 +129,4 @@ Follow these quick steps to instantly unlock your phone:
 3. Open your computer's **Terminal** (Linux/Mac) or **Command Prompt** (Windows).
 4. Copy and execute the following command to completely wipe the app's local storage and shatter the lockdown loop instantly:
 
-```bash
 adb shell pm clear com.aistudio.deepsleep.qzwrt
