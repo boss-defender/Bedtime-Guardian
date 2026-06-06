@@ -62,9 +62,30 @@ Upon launching the app for the very first time, you must manually grant the foll
 2. **Accessibility Service Activation:** Enables the background real-time app monitor.
 3. **Ignore Battery Optimizations:** Protects the background timing engine from being killed by aggressive system power-saving modes.
 
+**Set all this permission carefully**
+
+<img width="630" height="1400" alt="image" src="https://github.com/user-attachments/assets/aaad31e0-198d-4527-b69a-5486ac96eccb" />
+
+<img width="630" height="1400" alt="image" src="https://github.com/user-attachments/assets/21dc2998-25d0-4335-8137-c4e0b9f483e8" />
+
+<img width="630" height="1400" alt="image" src="https://github.com/user-attachments/assets/391fb2cc-7d99-4489-91b1-0c4ea91ed7f9" />
+
+<img width="630" height="1400" alt="image" src="https://github.com/user-attachments/assets/0d624aa1-8e26-430e-815e-e8768e62d4eb" />
+
+<img width="630" height="1400" alt="image" src="https://github.com/user-attachments/assets/ebb8079d-f909-40dd-9d84-286afe6f2aa3" />
+
+<img width="630" height="1400" alt="image" src="https://github.com/user-attachments/assets/0edd30ad-60f3-4139-8fb1-e7592eb23323" />
+
+<img width="630" height="1400" alt="image" src="https://github.com/user-attachments/assets/8403c12a-1a8a-4d9d-8f79-56a655413c43" />
+
+
+
+
 ### Step 3: Select Your Sleep Window (Lock-In Feature)
 Choose your desired Bedtime and Wake-up time using the sleek 12-Hour AM/PM TimePicker interface. 
-⚠️ **CRITICAL NOTE:** *Once you hit "Save & Activate", the setup menu is securely locked away. You cannot modify or change these hours ever again from the device interface. Choose wisely!*
+
+⚠️ **CRITICAL NOTE:** *Once you hit "Save & Activate", the setup menu is securely locked away. You cannot modify or change these hours ever again from the device interface. Choose wisely! 
+But if you badly want to modify time zone then you have to uninstall it and install it back and give all necessary permission.*
 
 ---
 
