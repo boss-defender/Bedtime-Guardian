@@ -9,7 +9,9 @@ Have you or your friend ever promised to go to sleep at 11:00 PM, only to find y
 Standard blocker apps are too weak. You can easily bypass them by swiping them away from the recent tasks, clearing the cache, or simply restarting your phone. **Bedtime Guardian is different.** Built with enterprise-grade security protocols, this app transforms the phone into an unbreakable digital vault when bedtime strikes. No loopholes. No escapes. Just pure, unadulterated sleep. 💤
 
 **NOTE:** *You will not be able to use any apps except Alarm, whatsapp , phone call.* 
+
 *However this app is 90% perfect for the job. I want to make it 100% perfect but I have faced my error and problem using the app.* 
+
 *But I think this app will help you properly with even 90% perfection.*
 
 ---
