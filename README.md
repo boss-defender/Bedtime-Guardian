@@ -74,7 +74,7 @@ Upon launching the app for the very first time, you must manually grant the foll
 2. **Accessibility Service Activation:** Enables the background real-time app monitor.
 3. **Ignore Battery Optimizations:** Protects the background timing engine from being killed by aggressive system power-saving modes.
 
-**Set all this permission carefully**
+**Give all these permission carefully otherwise this app may not work properly**
 
 ---
 <img width="630" height="1400" alt="image" src="https://github.com/user-attachments/assets/aaad31e0-198d-4527-b69a-5486ac96eccb" />
