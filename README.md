@@ -97,8 +97,9 @@ Upon launching the app for the very first time, you must manually grant the foll
 ### Step 3: Select Your Sleep Window (Lock-In Feature)
 Choose your desired Bedtime and Wake-up time using the sleek 12-Hour AM/PM TimePicker interface. 
 
-⚠️ **CRITICAL NOTE:** *Once you hit "Save & Activate", the setup menu is securely locked away. You cannot modify or change these hours ever again from the device interface. Choose wisely! 
-But if you badly want to modify time zone then you have to uninstall it and install it back and give all necessary permission.*
+⚠️ **CRITICAL NOTE:** *Once you hit "Save & Activate", the setup menu is securely locked away. You cannot modify or change these hours ever again from the device interface. Choose wisely!* 
+
+*But if you badly want to modify time zone then you have to uninstall it and install it back and give all necessary permission.*
 
 ---
 
