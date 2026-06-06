@@ -113,3 +113,21 @@ To make this app completely un-killable and disable the Home/Recents buttons, yo
 
 ```bash
 adb shell dpm set-device-owner com.yourusername.bedtimeguardian/.BedtimeDeviceAdminReceiver
+
+
+## 🚨 Emergency Jailbreak Protocol (If You Get Stuck!)
+
+Accidents happen! If you mistakenly configure the wrong bedtime hours (e.g., setting `2:00 PM` instead of `2:00 AM`) and find yourself locked out of your own device but this is an emergency! , Don't panic. Since this app uses enterprise-level restrictions, you cannot close it from the phone—but you can completely bypass it using your computer.
+
+Follow these quick steps to instantly unlock your phone:
+
+### 🛠️ How to Reset via PC Terminal
+
+1. **Connect your phone** to your computer using a USB cable.
+2. Ensure **USB Debugging** is enabled on your device. Give permission for File sharing.
+3. Go to internal storage > android > data .
+3. Open your computer's **Terminal** (Linux/Mac) or **Command Prompt** (Windows).
+4. Copy and execute the following command to completely wipe the app's local storage and shatter the lockdown loop instantly:
+
+```bash
+adb shell pm clear com.aistudio.deepsleep.qzwrt
