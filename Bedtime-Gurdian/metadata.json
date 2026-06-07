@@ -1,0 +1,8 @@
+{
+  "name": "Bedtime Guardian",
+  "description": "A highly persistent digital well-being application that locks your phone during bedtime to help you get deep restful sleep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

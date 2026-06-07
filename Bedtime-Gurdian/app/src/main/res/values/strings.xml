@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bedtime Guardian</string>
+    <string name="accessibility_service_desc">Provides ultimate, un-bypassable bedtime lock enforcement to protect your sleep cycle.</string>
+    <string name="device_admin_description">Allows absolute bedtime sleep lockdown via enterprise package suspension and policy enforcement.</string>
+</resources>
